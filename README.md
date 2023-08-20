@@ -35,7 +35,7 @@ pip install -r requirements.txt
 
 ## Usage
 
-run the play_match.py (The player's information can be changed in this file)
+run the play.py (The player's information can be changed in this file)
 
 The simulation proceeds through the following stages:
 
