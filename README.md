@@ -17,7 +17,7 @@ The Cricket Simulation Program allows you to simulate cricket matches and analyz
 - Simulate matches between custom-named teams.
 - Set the number of overs for each match.
 - Display detailed statistics for each player, including runs scored, wickets taken, and more.
-- User-friendly command-line interface.
+
 
 ### Installation
 
