@@ -19,20 +19,21 @@ The Cricket Simulation Program allows you to simulate cricket matches and analyz
 - Display detailed statistics for each player, including runs scored, wickets taken, and more.
 
 
-### Installation
-
+## Installation
 1. Clone the repository
-```bash
+```python
 git clone https://github.com/hariprasath-v/Advanced_Cricket_Tournament_Simulation.git
-
-3. Navigate to the cloned repo directory
+```
+2. Navigate to the cloned repo directory
+```python
 cd Advanced_Cricket_Tournament_Simulation
-
-4. Install dependencies
+```
+3. Install dependencies
+```python
 pip install -r requirements.txt
+```
 
-
-### Usage
+## Usage
 
 run the play_match.py (The player's information can be changed in this file)
 
@@ -51,7 +52,6 @@ After the simulation, the program generates the following files within the folde
 - Ball-by-Ball Summary (DataFrame Format)
 - Match Result (DataFrame Format)
 - Team's Score Comparison Chart (Image Format)
-
 
 ### Demo simulation
 
