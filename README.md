@@ -1,6 +1,6 @@
 # Advanced_Cricket_Tournament_Simulation
 
-Simulate exciting cricket matches between two teams with this command-line program.
+Simulate cricket matches between two teams with this command-line program.
 
 ## Overview
 
@@ -9,7 +9,7 @@ The Cricket Simulation Program allows you to simulate cricket matches and analyz
 - Teams: Utilize the Teams class to designate team captains, arrange batting orders, and establish the list of bowlers. It leverages player information to make informed decisions.
 - Umpire: The Umpire class plays a pivotal role in predicting ball outcomes, enhancing the simulation's authenticity.
 - Commentator: Enjoy dynamic match commentary throughout the simulation with the Commentator class, adding a lively aspect to the experience.
-- Match: The Match class encapsulates the core simulation, replicating the dynamics of a cricket game with accuracy.
+- Match: The Match class encapsulates the core simulation, replicating the dynamics of a cricket game.
 
 
 ## Features
