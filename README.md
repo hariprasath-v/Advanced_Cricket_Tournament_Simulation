@@ -34,7 +34,6 @@ pip install -r requirements.txt
 ```
 
 ## Usage
-
 run the play.py (The player's information can be changed in this file)
 
 The simulation proceeds through the following stages:
